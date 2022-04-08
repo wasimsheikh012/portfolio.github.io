@@ -1638,6 +1638,7 @@
 
  	 	#portfolio .works-container .works-item .item-overlay {
  	 	    position: relative;
+            background-color: white;
  	 	    overflow: hidden;
  	 	    -webkit-box-shadow: 0px 0px 10px 0px #ddd;
  	 	    -moz-box-shadow: 0px 0px 10px 0px #ddd;
@@ -1649,3 +1650,5 @@
  	 	    -moz-border-radius: 3px;
  	 	    border-radius: 3px;
  	 	}
+
+        .blue{ color: #3e43e9;}
